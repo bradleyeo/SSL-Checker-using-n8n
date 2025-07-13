@@ -30,5 +30,3 @@ This project automates SSL certificate checks using [n8n](https://n8n.io). It mo
 SSL outages can disrupt trust and access. This automation ensures you're always ahead of certificate renewals — no more surprises.
 
 ---
-
-Feel free to fork and modify. PRs welcome!
